@@ -1,0 +1,9 @@
+{
+  "name": "bacon-drawing",
+  "version": "0.0.0",
+  "description": "Drawing with Bacon.js",
+  "main": "index.html",
+  "repository": "https://github.com/fknussel/bacon-drawing.git",
+  "author": "Federico Knüssel <fknussel@gmail.com>",
+  "license": "MIT"
+}

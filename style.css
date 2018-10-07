@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.instructions {
+  font-size: 22px;
+  left: 20px;
+  position: fixed;
+  top: 0;
+}
